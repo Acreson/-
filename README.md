@@ -5,11 +5,11 @@
 
 #### Install
 
-just run `build.sh`
+修改成自己设备的ip地址
 
-or
+执行make package install
 
-BigBoss源搜索:fkwechatzan  (正在审核上传)
+即可
 
 
 
